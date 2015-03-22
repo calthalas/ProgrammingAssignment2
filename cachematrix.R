@@ -1,4 +1,4 @@
-## If the contents of a vector are not changing, it may make sense to cache the value of the mean so that when we need it again, 
+## If the contents of a matrix are not changing, it may make sense to cache the value of the inverse so that when we need it again, 
 ## it can be looked up in the cache rather than recomputed.
 ## Those functions perform exactly that
 
